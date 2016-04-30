@@ -2,12 +2,13 @@ name: We were architects
 favicon: null
 layout_spectrum: 0.26891516987234354
 typography_spectrum: 0.5792210965882987
+title: We were Architects
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-77140863-3
   facebook: null
   twitter: null
 opengraph:
