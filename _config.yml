@@ -1,7 +1,7 @@
 name: We were architects
 favicon: null
-layout_spectrum: 0.26891516987234354
-typography_spectrum: 0.5792210965882987
+layout_spectrum: 0.02471
+typography_spectrum: 0.69579
 title: We were Architects
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.20096721407026052
+    - '#1d1e20'
+    - '#868185'
+    - '#4d5760'
+    - '#dfddde'
+    - '#914a34'
+  brandStrength: 0.1875
   lightness: 0.43664384726434946
-  saturation: 0.49867484462447464
+  saturation: 0.5625
   rhythmicContrast: 0.1850364690180868
 purpose: []
